@@ -1,0 +1,12 @@
+numpy
+python-dotenv
+PyPDF2
+pandas
+textwrap3
+faiss-cpu
+tqdm
+langchain
+chromadb
+streamlit==1.24.0
+langchain_community
+fastapi
